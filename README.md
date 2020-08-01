@@ -1,6 +1,4 @@
 
 <p align="center">
-  <a href="https://github.com/xjh22222228/xjh22222228">
-    <img src="https://github.com/xjh22222228/xjh22222228/raw/master/bg.png" width="350" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xjh22222228&show_icons=true&theme=light&line_height=27" alt="PengHui Li's GitHub Stats"/>
 </p>
