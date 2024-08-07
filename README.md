@@ -1,5 +1,5 @@
 ## Repositories pending
-- [nav](https://github.com/xjh22222228/nav) 🔍 Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing
+- [nav](https://github.com/xjh22222228/nav) 🔍 Faxian Navigation: The strongest lightweight navigation website
 - [tomato-work](https://github.com/xjh22222228/tomato-work) 🍅 Tomato Work for React
 - [tomato-work-server](https://github.com/xjh22222228/tomato-work-server) 🍅 Tomato Work Server for Egg.js
 - [boomb](https://github.com/xjh22222228/boomb) 💣 Manage your pictures easily for Github/Gitee
