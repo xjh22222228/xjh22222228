@@ -3,6 +3,7 @@
 - [tomato-work](https://github.com/xjh22222228/tomato-work) 🍅 Tomato Work for React
 - [tomato-work-server](https://github.com/xjh22222228/tomato-work-server) 🍅 Tomato Work Server for Egg.js
 - [boomb](https://github.com/xjh22222228/boomb) 💣 Manage your pictures easily for Github/Gitee
+- [beautiful-window](https://github.com/xjh22222228/beautiful-window) Create your beautiful window online
 - [gosh](https://github.com/xjh22222228/gosh) 🛺 Golang utility library, With additional functions such as JavaScript/Python!
 - [vue-authorized](https://github.com/xjh22222228/vue-authorized) Used for vue3 based on ABAC permission verification component
 - [git-manual](https://github.com/xjh22222228/git-manual) :octocat: git command reference manual
