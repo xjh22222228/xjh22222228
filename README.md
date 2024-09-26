@@ -1,14 +1,1 @@
-## Repositories pending
-- [nav](https://github.com/xjh22222228/nav) 🔍 Faxian Navigation: The strongest lightweight navigation website
-- [tomato-work](https://github.com/xjh22222228/tomato-work) 🍅 Tomato Work for React
-- [tomato-work-server](https://github.com/xjh22222228/tomato-work-server) 🍅 Tomato Work Server for Egg.js
-- [boomb](https://github.com/xjh22222228/boomb) 💣 Manage your pictures easily for Github/Gitee
-- [beautiful-window](https://github.com/xjh22222228/beautiful-window) Create your beautiful window online
-- [gosh](https://github.com/xjh22222228/gosh) 🛺 Golang utility library, With additional functions such as JavaScript/Python!
-- [vue-authorized](https://github.com/xjh22222228/vue-authorized) Used for vue3 based on ABAC permission verification component
-- [git-manual](https://github.com/xjh22222228/git-manual) :octocat: git command reference manual
-- [linux-manual](https://github.com/xjh22222228/linux-manual) 🐧 Linux command reference manual
-- [awesome-web-editor](https://github.com/xjh22222228/awesome-web-editor) 🔨 Open source WEB editor summary
-- [github-oauth2](https://github.com/xjh22222228/github-oauth2) Github OAuth2 for Go
-- [wifi](https://github.com/xjh22222228/wifi) 📶 Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect.
-- ...
+
